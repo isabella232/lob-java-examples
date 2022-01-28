@@ -12,7 +12,7 @@ To run these code examples we need our own API keys from your Lob account. If yo
 
 Retrieve your API keys from your Lob dashboard by clicking on the Settings menu on the sidebar, then clicking on the API Keys tab, as this screenshot illustrates:
 
-[Lob API Keys](https://github.com/lob/lob-java-examples/blob/main/cli-examples/apikeys.png?raw=true)
+[Lob API Keys](https://raw.githubusercontent.com/lob/lob-java-examples/main/cli-examples/apikeys.png)
 
 ### Set your API key in the BaseExample file.
 
