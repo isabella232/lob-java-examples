@@ -30,7 +30,7 @@ Open your terminal and navigate to the `lob-java-examples/cli-examples` director
 
 ```bash
 lob$ cd lob-java-examples/cli-examples
-lob-java-examples$ mvn clean package
+cli-examples$ mvn clean package
 ```
 
 ## Examples
